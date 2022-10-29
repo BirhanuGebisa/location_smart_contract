@@ -1,5 +1,5 @@
-const Migrations = artifacts.require('Migrations')
+const refund_location = artifacts.require('refund_location')
 
 module.exports = function (deployer) {
-  deployer.deploy(Migrations)
+  deployer.deploy(refund_location)
 }
