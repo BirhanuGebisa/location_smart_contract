@@ -1,3 +1,4 @@
+// ignore: file_names
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import "package:flutter/widgets.dart";
@@ -23,7 +24,7 @@ class FirstModel extends ChangeNotifier {
   Future<void> initiateSetup() async {
     _httpClient = Client();
     _client = Web3Client(
-        "https://rinkeby.infura.io/v3/84ee596119e643cdb6e534c7c3674cfa",
+        "https://goerli.infura.io/v3/949471a93d714f98ad886c1083bf009e",
         _httpClient);
     await getAbi();
     await getCredentials();
@@ -31,7 +32,7 @@ class FirstModel extends ChangeNotifier {
   }
 
   Future<void> getAbi() async {
-    _abi = await rootBundle.loadString("../assets/abi.json");
+    _abi = await rootBundle.loadString("../assets/Employe.json");
     _contractAddress = "0x4943030bce7e49dd13b4dd120c0fef7dde3c18a0";
 //print(_abi);
 //print(_contractAddress);
@@ -39,7 +40,7 @@ class FirstModel extends ChangeNotifier {
 
   Future<void> getCredentials() async {
     _credentials = EthPrivateKey.fromHex(
-        "d585835f87981557df21fbaf99df4c9d06fd374b6efd121c027e0655cee5b627");
+        "f34a1a59c2e4bf11b60acc7f77788e99b7b711f3285eaad4408fc7dfbe1341dc");
 //print(_credentials);
   }
 
