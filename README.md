@@ -3,27 +3,11 @@
 ## Web3: Refund by Location Smart Contract
 > Initial system architecture design
 
-![](/home/sucess/10-academy/week-10/location_smart_contract/screen_shoot/system_art.png)
+![](screen_shoot/system_art.png)
 
 ## Project details
 
 **Table of contents**
-
-- [Web3](#web3)
-  - [Web3: Refund by Location Smart Contract](#web3-refund-by-location-smart-contract)
-  - [Project details](#project-details)
-  - [Introduction](#introduction)
-  - [Objective](#objective)
-  - [Truffle](#truffle)
-  - [Install](#install)
-  - [Ganache](#ganache)
-  - [Test](#test)
-  - [Adding dependencies to a package](#adding-dependencies-to-a-package)
-  - [Screenshots](#screenshots)
-  - [Approaches](#approaches)
-  - [Tests](#tests)
-  - [Author](#author)
-
 ## Introduction
 
 > A smart contract receives periodic updates from the employee’s phone on its GPS location. The refund by location smart contract is intended to be used in situations where one party, like an employer, agrees to pay another party, such as an employee, for their presence in a specific location for a specific amount of time. When all predetermined circumstances are met, a bitcoin payment is made in accordance with the pre-negotiated contract that is recorded in an Ethereum smart contract. 
