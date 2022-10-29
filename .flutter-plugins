@@ -1,4 +1,5 @@
 # This is a generated file; do not edit or check into version control.
+flutter_native_splash=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.12/
 geocoding=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geocoding-2.0.5/
 geolocator=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-9.0.2/
 geolocator_android=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-4.1.4/
@@ -7,6 +8,12 @@ geolocator_web=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.da
 geolocator_windows=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_windows-0.1.1/
 location=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/
 location_web=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-3.1.1/
+path_provider=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.11/
+path_provider_android=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.20/
+path_provider_ios=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.11/
+path_provider_linux=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.7/
+path_provider_macos=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.6/
+path_provider_windows=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.3/
 url_launcher=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.1.6/
 url_launcher_android=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.21/
 url_launcher_ios=/home/sucess/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.17/
